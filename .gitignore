@@ -1,0 +1,8 @@
+#envirament veriables file
+.env
+
+#pycache 
+__pycache__
+
+#docker file
+Dockerfile

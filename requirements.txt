@@ -1,0 +1,8 @@
+discord.py[voice] 
+python-dotenv 
+youtube_dl 
+PyNaCl
+yt_dlp
+youtube-search-python
+lyricsgenius
+pytube
