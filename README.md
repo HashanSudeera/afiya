@@ -4,11 +4,11 @@ Afiya is a Discord music bot that lets you play any song you want and fetch lyri
 
 ---
 
->#### Features
+#### Features
 Afiya intraduce video watch on [Youtube](https://example.com)
 
 ---
->#### My words
+#### My words
 
 This is my self-study project, and I learned a lot of programming concepts while developing Afiya. I want to host Afiya on the cloud, but I encountered this error.
 
@@ -22,7 +22,7 @@ If you'd like to help me fix this problem, please let me know. I want to learn h
 I found another way to solve this problem. We can use a YouTube API key, which allows the code to be deployed. However, it's not free.
 
 ---
->#### How to deploy this project on your PC.?
+#### How to deploy this project on your PC.?
 - **First Step**
 *we need to install python and ffmpeg*
   - install Python version 3.10.2 because FFmpeg is not supported in the newer Python versions.[python3.10.2](https://www.python.org/downloads/release/python-3102/)
@@ -50,5 +50,14 @@ I found another way to solve this problem. We can use a YouTube API key, which a
     - ```
       python afiya.py
 ---
+
+#### What did I learn from this project?
+1. Discord devaloper tools
+2. Object-oriented programming`OOP`
+3. FFMPEG
+4. Docker
+
+---
+
 
 
